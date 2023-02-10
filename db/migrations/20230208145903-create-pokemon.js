@@ -33,9 +33,6 @@ module.exports = {
       versionId: {
         type: Sequelize.INTEGER,
       },
-      moveId: {
-        type: Sequelize.INTEGER,
-      },
       image: {
         type: Sequelize.STRING,
       },
